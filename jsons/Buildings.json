@@ -1,0 +1,12 @@
+[
+    {
+		"name": "Campsite",
+		"replaces": "Garden",
+		"uniqueTo": "VividVale",
+		"requiredTech": "Theology",
+		"maintenance": 1,
+		"hurryCostModifier": 30,
+		"uniques": ["[+25]% Great Person generation [in this city]",
+			    "[+1 Production] from [Bonus resource] tiles [in this city]"]
+	},
+]
