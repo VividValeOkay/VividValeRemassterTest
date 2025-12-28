@@ -1,1 +1,17 @@
-
+[
+	{
+		"name": "Striker",
+		"unitType": "Sword",
+		"replaces":"Spearman",
+		"uniqueTo":"VividVale",
+		"movement": 3,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+    "promotions": ["Shock I"],
+		"attackSound": "metalhit"
+	},
+]
