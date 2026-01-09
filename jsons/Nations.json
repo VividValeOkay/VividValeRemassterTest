@@ -41,7 +41,7 @@
     "denounced": "Forgive them Father... they know not what they do...",
 	"introduction": "And I saw, behold it was a white horse... and hell followed with him.",
 
-    "neutralHello": "Hello mate.",
+    "neutralHello": "Hello.",
     "hateHello": "God will not let you take me.",
 
     "tradeRequest": "Let us come to an agreement...",
@@ -52,5 +52,29 @@
     "uniques": ["Earn [20]% of killed [All] unit's [Cost] as [Faith]"],
 	"cities": ["Joseph's Compound","Fall's End","John's Gate","Faith's Gate","Joseph's Word","Jacob's Armory","Grain Elevator","Hope County Jail","St. Francis Veterans Center",
 	           "Wolf's Den","Rae-Rae's Pumpkin Farm","Copperhead Rail Yard","Seed Ranch","Eden's Convent","Lorna's Truck Stop","Jessop Conservatory"],
+},
+{
+	"name": "Robloxia",
+	"leaderName": "Builderman",
+    "preferredVictoryType": "Scientific",
+	"personality": "Builderman",
+	"favoredReligion": "Christianity",
+
+	"declaringWar": "All your base are belong 2 me!",
+	"attacked": "Very well...",
+	"defeated": "OOF!",
+    "denounced": ">:(",
+	"introduction": "Welcome to ROBLOX!",
+
+    "neutralHello": "Hi :D",
+    "hateHello": ">:(",
+
+    "tradeRequest": "Lets trade!",
+
+    "outerColor": [255, 255, 255],
+    "innerColor": [82, 82, 82],
+	"uniqueName": "Powering Imagination",
+    "uniques": ["[+1 Production] per [6] population [in all cities]"],
+	"cities": ["Roblox HQ","Crossroads","The Heights","Brookhaven","Meep City","Bloxburg","Rising City","Livetopia","Mad City","Wayfort","Ronograd","Dove"],
 },
 ]
