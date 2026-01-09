@@ -31,7 +31,7 @@
 	"name": "Eden's Gate",
 	"leaderName": "Joseph Seed",
 	"startBias": ["Grassland","Forest"],
-    "preferredVictoryType": "Religious",
+    "preferredVictoryType": "Domination",
 	"personality": "Joseph",
 	"favoredReligion": "Christianity",
 
