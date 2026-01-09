@@ -1,0 +1,8 @@
+[
+	{
+		"name": "Bliss",
+		"resourceType": "Luxury",
+		"faith": 2,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+]
