@@ -26,5 +26,31 @@
     "uniques": ["[+1 Production, +1 Culture] in cities on [Coastal] tiles"],
 	"cities": ["Vividstrone","Railak","Daybo River","Coleston","Minvale","Manstown","Coalak","Bensberg","Galebourne","Waterview","Cannervale","Koola","Waggaton","Gorton","Sambay","Bunjitown",
                "Marth","Ganrick","Marakapi","Green Frog Gorge","Goodstone","Yukiri-yukiri Bay","Emu Handstrone","Once-upon-tyme","Good-City"],
-	},
+},
+{
+	"name": "Eden's Gate",
+	"leaderName": "Joseph Seed",
+	"startBias": ["Grassland","Forest"],
+    "preferredVictoryType": "Religious",
+	"personality": "Joseph",
+	"favoredReligion": "Christianity",
+
+	"declaringWar": "Let them burn. This is God’s will. This is their punishment.",
+	"attacked": "There they are... the Locusts in our garden... You see they’ve come for me. They’ve come to take me away from you. They’ve come to destroy all that we’ve built!",
+	"defeated": "And the Lamb broke the sixth seal and lo, there was a great earthquake... The sun became black and the moon turned to blood...",
+    "denounced": "Forgive them Father... they know not what they do...",
+	"introduction": "And I saw, behold it was a white horse... and hell followed with him.",
+
+    "neutralHello": "Hello mate.",
+    "hateHello": "God will not let you take me.",
+
+    "tradeRequest": "Let us come to an agreement...",
+
+    "outerColor": [255, 255, 255],
+    "innerColor": [24, 24, 24],
+	"uniqueName": "The Collapse",
+    "uniques": ["[+1 Production, +1 Culture] in cities on [Coastal] tiles"],
+	"cities": ["Joseph's Compound","Fall's End","John's Gate","Faith's Gate","Joseph's Word","Jacob's Armory","Grain Elevator","Hope County Jail","St. Francis Veterans Center",
+	           "Wolf's Den","Rae-Rae's Pumpkin Farm","Copperhead Rail Yard","Seed Ranch","Eden's Convent","Lorna's Truck Stop","Jessop Conservatory"],
+},
 ]
