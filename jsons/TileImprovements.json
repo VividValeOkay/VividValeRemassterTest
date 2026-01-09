@@ -5,7 +5,7 @@
 		"turnsToBuild": 6,
 		"gold": 1,
 		"techRequired": "Calendar",
-		"uniques": ["Provides [1] [Bliss]","Can only be built on [Fresh Water] tiles","Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Provides [1] [Bliss]","Can only be built on [Grasslands] tiles","Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
 ]
