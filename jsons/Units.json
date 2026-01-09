@@ -14,4 +14,17 @@
         "promotions": ["Shock I"],
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Chosen",
+		"unitType": "Gunpowder",
+		"replaces": "Infantry",
+		"uniqueTo": "Eden's Gate",
+		"movement": 2,
+		"strength": 72,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
 ]
